@@ -43,8 +43,8 @@
 
 ## 工具箱
 
-**前端工程** · TypeScript / Vue / React  
-**桌面工具** · Tauri / Rust / Swift / Electron  
+**前端工程** · TypeScript / Vue / React<br />
+**桌面工具** · Tauri / Rust / Swift / Electron<br />
 **AI 实践** · Python / Agent
 
 ---
