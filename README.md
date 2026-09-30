@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/pixel-world.png" alt="Ljhhhhhh 的像素作品宇宙：拾影院、阅读书屋与 AI 实验室。Building my own little universe." width="100%" />
-</p>
+![Ljhhhhhh 的像素作品宇宙：拾影院、阅读书屋与 AI 实验室。Building my own little universe.](./assets/pixel-world.png)
 
 <table>
   <tr>
